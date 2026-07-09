@@ -1,0 +1,6 @@
+{
+  "name": "Customer Registry",
+  "description": "A production-grade full-stack customer registry and complaint management system with premium dashboard analytics, CSV imports/exports, and custom role-based views.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
